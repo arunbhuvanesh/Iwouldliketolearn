@@ -2,8 +2,8 @@
 I would like to learn the following software concepts / topics in tamil,could you please create it for me, Thanks
 c
 1. What is Blackbox Testing ?
-2. 
-3. 
+2. What is whitelisting? Why we need on that? In ionic framework  
+3. What is jwt? How it's works? How to maintain securely?
 4. 
 5. 
 6. 
